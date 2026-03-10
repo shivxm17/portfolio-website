@@ -131,7 +131,7 @@ export default function Hero() {
               View Projects
             </a>
             <a
-              href="/Resume.pdf.pdf"
+              href="/Resume.pdf"
               target="_blank"
               download
               className="px-8 py-4 rounded-full bg-white/10 border border-white/20 text-white font-bold hover:bg-white/20 hover:border-white/40 transition-all duration-300 w-full sm:w-auto text-center"
